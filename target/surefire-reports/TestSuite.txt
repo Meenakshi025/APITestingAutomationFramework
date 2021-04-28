@@ -1,0 +1,88 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 32, Failures: 21, Errors: 0, Skipped: 0, Time elapsed: 48.233 sec <<< FAILURE!
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 3.072 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 0.983 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 1.016 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 0.991 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 0.986 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 1.033 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 0.963 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 1 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 0.897 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 1.008 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 0.955 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 0.976 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 1.018 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 1.033 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 1.054 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 1.082 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 1.036 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 0.997 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 0.933 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 0.977 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+
+ValidateDeleteCustomer(com.w2a.qa.testcases.DeleteCustomerTest)  Time elapsed: 0.97 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.w2a.qa.testcases.DeleteCustomerTest.ValidateDeleteCustomer(DeleteCustomerTest.java:22)
+

@@ -1,0 +1,9 @@
+com\w2a\qa\listeners\ExtentManager.class
+com\w2a\qa\API\CreateCustomerAPI.class
+com\w2a\qa\API\DeleteCustomerAPI.class
+com\w2a\qa\setup\BaseTest.class
+com\w2a\qa\utilities\DataUtil.class
+com\w2a\qa\utilities\ExcelReader.class
+com\w2a\qa\testcases\DeleteCustomerTest.class
+com\w2a\qa\testcases\CreateCustomerTest.class
+com\w2a\qa\listeners\ExtentListeners.class
